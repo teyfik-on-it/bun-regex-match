@@ -1,0 +1,24 @@
+{
+  "name": "bun-regex-match",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^29.5.12"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teyfik-on-it/bun-regex-match.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teyfik-on-it/bun-regex-match/issues"
+  },
+  "homepage": "https://github.com/teyfik-on-it/bun-regex-match#readme"
+}
